@@ -21,7 +21,7 @@
 
 ### Analyzing data: Taking notes
 
-    * Example of [Notebooks]https://github.com/jakekara/small-business-express-loan-analysis/blob/master/Small%20Business%20Express%20Analysis%202.ipynb)
+    * Example of [Notebooks](https://github.com/jakekara/small-business-express-loan-analysis/blob/master/Small%20Business%20Express%20Analysis%202.ipynb)
 
 ### Data as a medium
 
