@@ -13,7 +13,7 @@
 * Data is just like a human source, torture it long enough and it will tell
   you anything you want to hear.
 
-![Data](https://en.wikipedia.org/wiki/Data_(Star_Trek)#/media/File:DataTNG.jpg)
+![Data](https://upload.wikimedia.org/wikipedia/en/0/09/DataTNG.jpg)
 
 * It's not always trustworthy
        * Incomplete firearm data - Looked like good news
