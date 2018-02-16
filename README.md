@@ -1,8 +1,10 @@
 # Storytelling with data: Data in the newsroom
 
-### The Connecticut Mirror
+### The Connecticut Mirror: Or, life under the dome
 
-* We don't shy away from details
+* Small staff
+* We don't sacrifice details
+* "People won't judge us based on the stories we don't cover"
 
 ### Examples
 
@@ -15,8 +17,8 @@
 
 ### Pathway to data journalism
 
-* Journalist + Excel = Data Journalist
-* Data Journalist - Excel + PANDAS = Better data journalist
+* Journalist + Excel = Data Journalism
+* Data Journalist - Excel + PANDAS = Better data journalism
 * __PSA: If you have a techy-sounding job title, people will ask you to fix the printer__
 * Why journalists use notebook: accuracy, establishing a record
 * Example of data [notebook](https://github.com/jakekara/small-business-express-loan-analysis/blob/master/Small%20Business%20Express%20Analysis%202.ipynb)
